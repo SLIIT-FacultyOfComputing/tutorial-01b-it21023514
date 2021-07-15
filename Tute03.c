@@ -11,6 +11,7 @@ sum = 1+2+3+....+ 99+100 = 5050
 n -> 1-
 sum = 1+2+3+...+10 = 55 */
 
+//Ex3
 #include <stdio.h>
 int main() {
   int num , count=1;
